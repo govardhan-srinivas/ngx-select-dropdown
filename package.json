@@ -83,7 +83,7 @@
     "@types/webpack-env": "^1.14.0",
     "angular2-template-loader": "^0.6.2",
     "awesome-typescript-loader": "^3.5.0",
-    "codecov": "^2.2.0",
+    "codecov": "^3.7.1",
     "codelyzer": "^3.0.1",
     "concurrently": "^3.6.1",
     "copy-webpack-plugin": "^4.6.0",
